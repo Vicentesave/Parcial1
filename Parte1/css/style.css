@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:burlywood;
+}
+img {
+    width: 50%;
+    border: 5px;
+    border-style:double;
+}
+header p {
+    font-size: 15px;
+    font-style: italic;
+}
+li {
+    margin-bottom: 10px;
+}
+main p {
+    text-align: left;
+}
+span{
+    font-weight: bold;
+}
+footer {
+    text-align: left;
+    margin-top: 50px;
+}
